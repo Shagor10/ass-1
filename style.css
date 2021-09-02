@@ -20,6 +20,7 @@ h4{
     display: flex;
     margin-bottom: 150px;
     margin-top: 50px;
+    padding-left: 50px;
 }
 .tom-clr{
     color: tomato;
@@ -37,6 +38,8 @@ h4{
 }
 .half-width img{
     width: 60%;
+    padding-left: 50px;
+    padding-top: 30px;
 }
 .eat-burger{
     display: flex;
@@ -54,7 +57,7 @@ h4{
     display: flex;
     padding-left: 20px;
     padding-right: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 100px;
    
 }
 #first{
@@ -80,16 +83,15 @@ h4{
 }
 #third{
     width: 28%;
-    height: 33%;
+    height: 30%;
     margin-left: 5%;
     margin-right: 5%;
+    padding-bottom: 40px;
     text-align: center;
     box-shadow: 10px 10px 40px gray;
     border-radius: 5%;
 }
-footer h3{
-    text-align: center;
-}
-footer p{
+.footer{
+    background-color: green;
     text-align: center;
 }
